@@ -1,0 +1,3 @@
+[submodule "client-To-Do-App"]
+	path = client-To-Do-App
+	url = git@github.com:Aga-de/client-To-Do-App.git
